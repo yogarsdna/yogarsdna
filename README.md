@@ -1,4 +1,6 @@
-# Hi! 👋 I'm Yoga.
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+My name is Gede Yoga Arisudana, and you can call me Yoga. I am an Undergraduate Informatics Student at Institut Teknologi Sepuluh Nopember Surabaya.
 
 I am an Undergraduate Informatics Student at Institut Teknologi Sepuluh Nopember Surabaya.
 
