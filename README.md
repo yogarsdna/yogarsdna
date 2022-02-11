@@ -1,4 +1,4 @@
-## Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">!</a>
+## Hi Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 My name is Gede Yoga Arisudana, and you can call me Yoga. I am an Undergraduate Informatics Student at Institut Teknologi Sepuluh Nopember Surabaya.
 
@@ -7,6 +7,10 @@ I am an Undergraduate Informatics Student at Institut Teknologi Sepuluh Nopember
 I am currently interested in learning things related to data such as MySQL, PostgreSQL, Data Mining, Data Analytics, Big Data, etc., and I also have a big interest in machine learning. Learning machine learning algorithms is an exciting yet challenging thing to do for me.
 
 If you are interested in getting to know me, please contact me via [Linkedin](https://www.linkedin.com/in/gede-yoga-arisudana-81a52a1bb/).
+
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ### Github Statistics
 <p align="left">
