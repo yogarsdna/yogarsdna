@@ -1,8 +1,10 @@
 ## Hi Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-My name is Gede Yoga Arisudana, and you can call me Yoga. I am an Undergraduate Informatics Student at Institut Teknologi Sepuluh Nopember Surabaya.
+My name is Gede Yoga Arisudana, and you can call me Yoga. I am an Undergraduate Informatics Student at Institut Teknologi Sepuluh Nopember Surabaya. I am a person who likes to learn and is always ready to be taught. I also enjoy learning new things and mastering things in my field of interest.
 
-I am currently interested in learning things related to data such as MySQL, PostgreSQL, Data Mining, Data Analytics, Big Data, etc., and I also have a big interest in machine learning. Learning machine learning algorithms is an exciting yet challenging thing to do for me.
+I am interested in learning things related to data, especially data science. I also have a big interest in machine learning and artificial intelligence and love to explore them. Learning algorithms that will be used is an exciting yet challenging thing to do for me. Learning them really train my creative and critical thinking.
+
+Currently, I use Python and SQL for my daily learning activities, and I got some Python libraries that I like to use such as SciKit-Learn, Plotly, and Keras. But of course, there are still many libraries that I use and certainly, be beneficial for learning in the data science world that I am exploring right now.
 
 If you are interested in getting to know me, please contact me via [Linkedin](https://www.linkedin.com/in/gede-yoga-arisudana-81a52a1bb/).
 
