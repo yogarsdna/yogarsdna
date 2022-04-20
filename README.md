@@ -19,7 +19,6 @@ If you are interested in getting to know me, please contact me via [Linkedin](ht
 <a href="https://scikit-learn.org/stable/" title="scikit-learn"><img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" alt="scikit-learn" width="21px" height="21px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
-<a href="https://www.javascript.com/" title="JavaScript"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 
 ### Github Statistics
 <p align="left">
