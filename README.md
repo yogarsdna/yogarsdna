@@ -11,9 +11,12 @@ If you are interested in getting to know me, please contact me via [Linkedin](ht
 ### Tech Stack
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://jupyter.org/" title="Jupyter Notebook"><img src="https://github.com/get-icon/geticon/raw/master/icons/jupyter.svg" alt="Jupyter Notebook" width="21px" height="21px"></a>
+<a href="https://www.tensorflow.org/resources/learn-ml?gclid=Cj0KCQjw3v6SBhCsARIsACyrRAkSwDHZ5dSLFZRWow85bpu2mPy-aTkv3oXS7ZbaHge1jjZ_78Puo0QaArrXEALw_wcB" title="TensorFlow"><img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="TensorFlow" width="21px" height="21px"></a>
+<a href="https://keras.io/" title="Keras"><img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="Keras" width="21px" height="21px"></a>
 <a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="21px" height="21px"></a>
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="21px" height="21px"></a>
 <a href="https://matplotlib.org/" title="matplotlib"><img src="https://github.com/gilbarbara/logos/blob/master/logos/matplotlib-icon.svg" alt="matplotlib" width="21px" height="21px"></a>
+<a href="https://scikit-learn.org/stable/" title="scikit-learn"><img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" alt="scikit-learn" width="21px" height="21px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
 <a href="https://www.javascript.com/" title="JavaScript"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
