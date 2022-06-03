@@ -1,4 +1,4 @@
-## Hi Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height="5px"></a>
+## Hi Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
 My name is Gede Yoga Arisudana, and you can call me Yoga. I am an Undergraduate Informatics Student at Institut Teknologi Sepuluh Nopember Surabaya. I am a person who likes to learn and is always ready to be taught. I also enjoy learning new things and mastering things in my field of interest.
 
