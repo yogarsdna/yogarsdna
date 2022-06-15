@@ -4,7 +4,7 @@ My name is Gede Yoga Arisudana, and you can call me Yoga. I am an Undergraduate 
 
 I am interested in learning things related to data science. Such as machine learning, deep learning, and artificial intelligence. I like to explore and learn from each of them. Learning algorithms that will be used in those things are an exciting yet challenging thing to do for me. And learning them really train my creative and critical thinking.
 
-Currently, I use Python and SQL for my daily learning activities, and I got some Python libraries that I like to use such as SciKit-Learn, Plotly, and Keras. But of course, there are still many libraries that I use and certainly, be beneficial for learning in the data science world that I am exploring right now.
+Currently, I use Python and SQL for my daily learning activities, and I got some Python libraries that I like to use such as TensorFlow, SciKit-Learn, and Plotly. But of course, there are still many libraries that I use and certainly, be beneficial for learning in the data science world that I am exploring right now.
 
 If you are interested in getting to know me, please contact me via [Linkedin](https://www.linkedin.com/in/gede-yoga-arisudana-81a52a1bb/).
 
