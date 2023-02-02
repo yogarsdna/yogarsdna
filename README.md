@@ -6,7 +6,7 @@ I am interested in learning things related to data science. Such as machine lear
 
 Currently, I use Python and SQL for my daily learning activities, and I got some Python libraries that I like to use such as TensorFlow, SciKit-Learn, and Plotly. But of course, there are still many libraries that I use and certainly, be beneficial for learning in the data science world that I am exploring right now.
 
-If you are interested in getting to know me, please contact me via [Linkedin](https://www.linkedin.com/in/gede-yoga-arisudana-81a52a1bb/).
+If you are interested in getting to know me, please contact me via [Linkedin](https://www.linkedin.com/in/gede-yoga-arisudana-81a52a1bb/), and I also like to write articles about data science as one of my learning practices to ensure that I understand the materials and to help others who are interested in data science, you can find some of my articles on my [Medium](https://medium.com/@yogarsdna). 
 
 ### Tech Stack
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
