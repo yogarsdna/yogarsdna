@@ -1,10 +1,10 @@
 ## Hi Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
-My name is Gede Yoga Arisudana, and you can call me Yoga. I am an Undergraduate Informatics Student at Institut Teknologi Sepuluh Nopember Surabaya. I am a person who likes to learn and is always ready to be taught. I also enjoy learning new things and mastering things in my field of interest.
+Hi, my name is Gede Yoga Arisudana, and you can call me Yoga. Currently, I'm pursuing a double degree at Institut Teknologi Sepuluh Nopember and Tomsk State University. I'm someone who thrives on learning and welcomes new opportunities to expand my knowledge.
 
-I am interested in learning things related to data science. Such as machine learning, deep learning, and artificial intelligence. I like to explore and learn from each of them. Learning algorithms that will be used in those things are an exciting yet challenging thing to do for me. And learning them really train my creative and critical thinking.
+My interest lies in the realm of data science, particularly in areas like machine learning, deep learning, and artificial intelligence. Exploring these fields is both challenging and intriguing, fueling my curiosity to understand their inner workings.
 
-Currently, I use Python and SQL for my daily learning activities, and I got some Python libraries that I like to use such as TensorFlow, SciKit-Learn, and Plotly. But of course, there are still many libraries that I use and certainly, be beneficial for learning in the data science world that I am exploring right now.
+Recently, I've been delving into natural language processing, exploring topics such as chatbots and summarization techniques. Additionally, I'm fascinated by computer vision, especially applications like image classification and detection. Learning about these technologies excites me, as they hold vast potential to impact various aspects of our lives.
 
 If you are interested in getting to know me, please contact me via [Linkedin](https://www.linkedin.com/in/gede-yoga-arisudana-81a52a1bb/), and I also like to write articles about data science as one of my learning practices to ensure that I understand the materials and to help others who are interested in data science, you can find some of my articles on my [Medium](https://medium.com/@yogarsdna). 
 
