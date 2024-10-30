@@ -1,10 +1,10 @@
 ## Hi Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
-Hi, I'm Gede Yoga Arisudana, or Yoga for short. A recent graduate from Institut Teknologi Sepuluh Nopember and Tomsk State University, I'm passionate about uncovering the intricacies of human language through Natural Language Processing (NLP). The challenge of teaching machines to understand and generate text is what truly excites me.
+Hi, I'm Gede Yoga Arisudana, or Yoga for short. A Master’s student in Artificial Intelligence Systems with a specialization in Neurocognitive Architectures at Università di Trento, I'm passionate about uncovering the intricacies of human language through Natural Language Processing (NLP). The challenge of teaching machines to understand about human language while also understanding the way of them see it excites me.
 
-I've been diving deep into the world of Large Language Models (LLMs), fascinated by their potential to revolutionize how we interact with technology. My goal is to apply my knowledge to create innovative solutions that bridge the gap between humans and computers.
+I've been diving deep into the world of neuroscience and large language models (LLMs), fascinated by their potential to revolutionize how we interact with technology. My goal is to apply my knowledge to create innovative solutions that bridge the gap between humans and computers.
 
-My passion for artificial intelligence keeps me eager to learn and collaborate with others.
+My passion for artificial intelligence keeps me eager to learn and collaborate with others; hence, if anyone out there wants to make a collaboration, feel free to reach out!
 
 If you are interested in getting to know me, please contact me via [Linkedin](https://www.linkedin.com/in/gede-yoga-arisudana-81a52a1bb/), and I also like to write articles about data science as one of my learning practices to ensure that I understand the materials and to help others who are interested in data science, you can find some of my articles on my [Medium](https://medium.com/@yogarsdna). 
 
