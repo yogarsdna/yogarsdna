@@ -4,7 +4,7 @@ Hi, I'm Gede Yoga Arisudana, or Yoga for short. A Master’s student in Artifici
 
 I've been diving deep into the world of neuroscience and large language models (LLMs), fascinated by their potential to revolutionize how we interact with technology. My goal is to apply my knowledge to create innovative solutions that bridge the gap between humans and computers.
 
-My passion for artificial intelligence keeps me eager to learn and collaborate with others; hence, if anyone out there wants to make a collaboration, feel free to reach out!
+My passion for artificial intelligence keeps me eager to learn and collaborate with others. Hence, if anyone out there wants to make a collaboration, feel free to reach out!
 
 If you are interested in getting to know me, please contact me via [Linkedin](https://www.linkedin.com/in/gede-yoga-arisudana-81a52a1bb/), and I also like to write articles about data science as one of my learning practices to ensure that I understand the materials and to help others who are interested in data science, you can find some of my articles on my [Medium](https://medium.com/@yogarsdna). 
 
